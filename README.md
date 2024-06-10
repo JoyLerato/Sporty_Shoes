@@ -41,7 +41,7 @@ Sporty Shoes is a company that manufactures and sells sports shoes. This project
 ## Setup Instructions
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/sporty-shoes.git
+   git clone (https://github.com/JoyLerato/Sporty_Shoes.git)
    cd sporty-shoes
 
 Set up the database:
